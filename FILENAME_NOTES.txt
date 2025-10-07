@@ -1,0 +1,4 @@
+Each synthetic image filename embeds both the location and the 'detected' code:
+A-01-01__123456789012.png  -> Location=A-01-01, Detected=123456789012
+
+The app can parse this in fallback mode. For real decoding, install pyzbar + ZBar.

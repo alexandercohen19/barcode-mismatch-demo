@@ -1,0 +1,197 @@
+[
+  {
+    "filename": "A-01-01__104332181960.png",
+    "location_id": "A-01-01",
+    "detected_code": "104332181960",
+    "expected_code": "104332181960",
+    "bbox": [
+      206,
+      226,
+      766,
+      281
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-01-02__013389083863.png",
+    "location_id": "A-01-02",
+    "detected_code": "013389083863",
+    "expected_code": "013389083863",
+    "bbox": [
+      195,
+      240,
+      755,
+      295
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-01-03__794026542351.png",
+    "location_id": "A-01-03",
+    "detected_code": "794026542351",
+    "expected_code": "794026542351",
+    "bbox": [
+      167,
+      223,
+      727,
+      278
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-01-04__104332181960.png",
+    "location_id": "A-01-04",
+    "detected_code": "104332181960",
+    "expected_code": "161559407816",
+    "bbox": [
+      185,
+      237,
+      745,
+      292
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-01-05__013389083863.png",
+    "location_id": "A-01-05",
+    "detected_code": "013389083863",
+    "expected_code": "184959310341",
+    "bbox": [
+      200,
+      240,
+      760,
+      295
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-02-01__104332181960.png",
+    "location_id": "A-02-01",
+    "detected_code": "104332181960",
+    "expected_code": "316475255341",
+    "bbox": [
+      220,
+      230,
+      780,
+      285
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-02-02__514627048281.png",
+    "location_id": "A-02-02",
+    "detected_code": "514627048281",
+    "expected_code": "928327648350",
+    "bbox": [
+      172,
+      226,
+      732,
+      281
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-02-03__305641395376.png",
+    "location_id": "A-02-03",
+    "detected_code": "305641395376",
+    "expected_code": "305641395376",
+    "bbox": [
+      222,
+      238,
+      782,
+      293
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-02-04__305641395376.png",
+    "location_id": "A-02-04",
+    "detected_code": "305641395376",
+    "expected_code": "724238849696",
+    "bbox": [
+      213,
+      233,
+      773,
+      288
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-02-05__928327648350.png",
+    "location_id": "A-02-05",
+    "detected_code": "928327648350",
+    "expected_code": "532871012269",
+    "bbox": [
+      155,
+      233,
+      715,
+      288
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-03-01__166978480184.png",
+    "location_id": "A-03-01",
+    "detected_code": "166978480184",
+    "expected_code": "166978480184",
+    "bbox": [
+      116,
+      240,
+      676,
+      295
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-03-02__928327648350.png",
+    "location_id": "A-03-02",
+    "detected_code": "928327648350",
+    "expected_code": "514627048281",
+    "bbox": [
+      203,
+      230,
+      763,
+      285
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-03-03__161559407816.png",
+    "location_id": "A-03-03",
+    "detected_code": "161559407816",
+    "expected_code": "489325288095",
+    "bbox": [
+      134,
+      237,
+      694,
+      292
+    ],
+    "result": "FAIL"
+  },
+  {
+    "filename": "A-03-04__701543039117.png",
+    "location_id": "A-03-04",
+    "detected_code": "701543039117",
+    "expected_code": "701543039117",
+    "bbox": [
+      145,
+      234,
+      705,
+      289
+    ],
+    "result": "PASS"
+  },
+  {
+    "filename": "A-03-05__182278248963.png",
+    "location_id": "A-03-05",
+    "detected_code": "182278248963",
+    "expected_code": "182278248963",
+    "bbox": [
+      166,
+      237,
+      726,
+      292
+    ],
+    "result": "PASS"
+  }
+]

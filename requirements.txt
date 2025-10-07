@@ -1,0 +1,8 @@
+# Minimal set for the demo. You can run in "simulate" mode without pyzbar installed.
+streamlit
+pillow
+numpy
+# Optional improvements (uncomment as needed):
+# opencv-python
+# pyzbar
+# albumentations
