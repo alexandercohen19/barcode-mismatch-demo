@@ -1,4 +1,3 @@
-python
 import os
 from typing import Tuple, Optional
 from PIL import Image, ImageDraw, ImageFont
